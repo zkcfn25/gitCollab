@@ -2,7 +2,8 @@
 package githubcollab;
 
 
-public class GithubCollab {
+public class GithubCollab 
+{
 
  
     public static void main(String[] args) 
