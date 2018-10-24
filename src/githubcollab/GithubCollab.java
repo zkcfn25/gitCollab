@@ -4,7 +4,8 @@ package githubcollab;
 
 public class GithubCollab 
 {
-
+    int c;
+    int b; 
  
     public static void main(String[] args) 
     {
